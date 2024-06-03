@@ -1,0 +1,10 @@
+---
+name: DO NOT CREATE ISSUES UNDER THIS REPO
+about: DO NOT CREATE ISSUES UNDER THIS REPO
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+DO NOT CREATE ISSUES UNDER THIS REPO
